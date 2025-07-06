@@ -5,6 +5,7 @@
 Ein multidimensionales Modell zur Erklärung autistischer Verhaltensmuster auf Basis sensorischer Verarbeitung.  
 
 ---
+
 A multidimensional model to explain autistic behavioral patterns based on sensory processing.
 
 ## Verfügbare Sprachen / Available languages
