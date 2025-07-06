@@ -9,7 +9,7 @@ A multidimensional model to explain autistic behavioral patterns based on sensor
 ## Verfügbare Sprachen / Available languages
 
 - [Deutsch / German](de/) - Vollständige Version
-- [English / Englisch](en/) (Coming soon / In Vorbereitung)
+- [English / Englisch](en/) - complete version
 
 ## Kernthesen / Core Theses
 
@@ -28,12 +28,12 @@ Sie können diesen Text auf verschiedene Weise lesen:
 
 You can read this text in different ways:
 
-- **[Complete Document](de/)** - The entire paper on one page
-- **[Chapter-by-Chapter Navigation](de/chapters/01-einleitung.md)** - For focused reading
+- **[Complete Document](en/)** - The entire paper on one page
+- **[Chapter-by-Chapter Navigation](en/chapters/01-introduction.md)** - For focused reading
 - **PDF Version** - Use your browser's "Print" function
 
 ## Beitragen / Contribute
 
-Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/YourUsername/Autismus) für weitere Informationen.
+Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/username/autism-sensory-model) für weitere Informationen.
 
-This project is open for contributions, translations, and extensions. Visit our [GitHub Repository](https://github.com/YourUsername/Autismus) for more information.
+This project is open for contributions, translations, and extensions. Visit our [GitHub Repository](https://github.com/username/autism-sensory-model) for more information.

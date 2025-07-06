@@ -4,7 +4,7 @@ This repository presents a multidimensional model to understand autism not prima
 It proposes a shift from symptom-based classification to systemic, cause-oriented interpretation.
 
 📄 Full paper: [English Version](docs/en/) | [German Version](docs/de/)  
-🌐 GitHub Pages view: https://<your-username>.github.io/Autismus/
+🌐 GitHub Pages view: https://y4cine.github.io/autism-sensory-model/
 
 ## Why this matters
 

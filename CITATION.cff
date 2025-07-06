@@ -1,13 +1,16 @@
 cff-version: 1.2.0
 message: "Wenn Sie dieses Werk zitieren möchten, verwenden Sie bitte die folgenden Angaben / If you use this work, please cite it using these metadata."
-title: "Ein multidimensionales Modell zur Erklärung autistischer Verhaltensmuster auf Basis sensorischer Verarbeitung"
-abstract: "Dieses Papier hinterfragt die gängige Diagnostik von Autismus als symptombasiertes Störungsbild und schlägt stattdessen ein systemisch-sensorisches Modell vor."
+title: "Autism Sensory Model / Autismus-Sensorik-Modell"
+title-en: "A Multidimensional Model for Explaining Autistic Behavioral Patterns Based on Sensory Processing"
+title-de: "Ein multidimensionales Modell zur Erklärung autistischer Verhaltensmuster auf Basis sensorischer Verarbeitung"
+abstract: "This paper questions the common diagnosis of autism as a symptom-based disorder and proposes a systemic-sensory model instead. It argues that many autistic behaviors should be understood as secondary strategies in dealing with sensory processing."
+abstract-de: "Dieses Papier hinterfragt die gängige Diagnostik von Autismus als symptombasiertes Störungsbild und schlägt stattdessen ein systemisch-sensorisches Modell vor."
 authors:
-  - family-names: "Ihr Nachname"
-    given-names: "Ihr Vorname"
+  - family-names: "Yacine"
+    given-names: ""
 date-released: 2025-07-06
 license: MIT
-repository-code: "https://github.com/YourUsername/Autismus"
+repository-code: "https://github.com/username/autism-sensory-model"
 keywords:
   - autism
   - autismus
