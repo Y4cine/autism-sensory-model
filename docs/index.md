@@ -41,6 +41,6 @@ You can read this text in different ways:
 
 ## Beitragen / Contribute
 
-Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/username/autism-sensory-model) für weitere Informationen.
+Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/y4cine/autism-sensory-model) für weitere Informationen.
 
-This project is open for contributions, translations, and extensions. Visit our [GitHub Repository](https://github.com/username/autism-sensory-model) for more information.
+This project is open for contributions, translations, and extensions. Visit our [GitHub Repository](https://github.com/y4cine/autism-sensory-model) for more information.
