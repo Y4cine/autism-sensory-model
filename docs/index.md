@@ -18,18 +18,25 @@ A multidimensional model to explain autistic behavioral patterns based on sensor
 - Autismus entsteht nicht im Gehirn allein, sondern im **Zusammenspiel von sensorischer Innenwelt und Umweltanforderungen**
 - Ein **multidimensionaler Ansatz** ermöglicht individuelle Unterstützung statt standardisierter Therapie
 
+- Autism is not a uniform disorder, but a pattern of **adaptive responses to divergent sensory perception**
+- Many autistic behaviors are **secondary strategies** for dealing with sensory overload or deficit
+- Autism does not arise in the brain alone, but in the **interaction between internal sensory world and environmental demands**
+- A **multidimensional approach** enables individualized support instead of standardized therapy
+
 ## Lesemöglichkeiten / Reading Options
 
 Sie können diesen Text auf verschiedene Weise lesen:
 
 - **[Vollständiges Dokument](de/)** - Das gesamte Paper auf einer Seite
 - **[Kapitelweise Navigation](de/chapters/01-einleitung.md)** - Für fokussiertes Lesen
+- **[Populärwissenschaftliche Version](de/popular-version.md)** - Leicht verständliche Kurzfassung
 - **PDF-Version** - Verwenden Sie die "Drucken"-Funktion Ihres Browsers
 
 You can read this text in different ways:
 
 - **[Complete Document](en/)** - The entire paper on one page
 - **[Chapter-by-Chapter Navigation](en/chapters/01-introduction.md)** - For focused reading
+- **[Popular Science Version](en/popular-version.md)** - Easy-to-understand summary
 - **PDF Version** - Use your browser's "Print" function
 
 ## Beitragen / Contribute

@@ -1,8 +1,9 @@
 # A Multidimensional Model for Explaining Autistic Behavioral Patterns Based on Sensory Processing
 
-**You can read this document in two ways:**
+**You can read this document in different ways:**
 - [As a complete document](#complete-document) (this page)
 - [As individual chapters](chapters/01-introduction.md) (chapter-by-chapter navigation)
+- [As a popular science summary](popular-version.md) (easy-to-understand overview)
 
 ## Table of Contents
 

@@ -1,8 +1,9 @@
 # Ein multidimensionales Modell zur Erklärung autistischer Verhaltensmuster auf Basis sensorischer Verarbeitung
 
-**Sie können dieses Dokument auf zwei Arten lesen:**
+**Sie können dieses Dokument auf verschiedene Arten lesen:**
 - [Als vollständiges Dokument](#vollständiges-dokument) (diese Seite)
 - [Als Einzelkapitel](chapters/01-einleitung.md) (kapitelweise Navigation)
+- [Als populärwissenschaftliche Kurzfassung](popular-version.md) (leicht verständliche Übersicht)
 
 ## Inhaltsverzeichnis
 
