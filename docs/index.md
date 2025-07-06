@@ -21,6 +21,7 @@ A multidimensional model to explain autistic behavioral patterns based on sensor
 - Ein **multidimensionaler Ansatz** ermöglicht individuelle Unterstützung statt standardisierter Therapie  
 
 ---
+
 - Autism is not a uniform disorder, but a pattern of **adaptive responses to divergent sensory perception**
 - Many autistic behaviors are **secondary strategies** for dealing with sensory overload or deficit
 - Autism does not arise in the brain alone, but in the **interaction between internal sensory world and environmental demands**
