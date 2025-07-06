@@ -19,6 +19,7 @@ A multidimensional model to explain autistic behavioral patterns based on sensor
 - Viele autistische Verhaltensweisen sind **sekundäre Strategien** im Umgang mit Reizüberflutung oder -mangel
 - Autismus entsteht nicht im Gehirn allein, sondern im **Zusammenspiel von sensorischer Innenwelt und Umweltanforderungen**  
 - Ein **multidimensionaler Ansatz** ermöglicht individuelle Unterstützung statt standardisierter Therapie  
+
 ---
 - Autism is not a uniform disorder, but a pattern of **adaptive responses to divergent sensory perception**
 - Many autistic behaviors are **secondary strategies** for dealing with sensory overload or deficit
