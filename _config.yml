@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+title: Autism Sensory Model / Autismus-Sensorik-Modell
+description: A multidimensional model to explain autistic behavioral patterns based on sensory processing
+lang: en
+defaults:
+  - scope:
+      path: "docs/de"
+    values:
+      lang: de
+  - scope:
+      path: "docs/en"
+    values:
+      lang: en
+plugins:
+  - jekyll-seo-tag

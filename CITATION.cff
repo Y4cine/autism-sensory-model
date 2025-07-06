@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Wenn Sie dieses Werk zitieren möchten, verwenden Sie bitte die folgenden Angaben / If you use this work, please cite it using these metadata."
+title: "Ein multidimensionales Modell zur Erklärung autistischer Verhaltensmuster auf Basis sensorischer Verarbeitung"
+abstract: "Dieses Papier hinterfragt die gängige Diagnostik von Autismus als symptombasiertes Störungsbild und schlägt stattdessen ein systemisch-sensorisches Modell vor."
+authors:
+  - family-names: "Ihr Nachname"
+    given-names: "Ihr Vorname"
+date-released: 2025-07-06
+license: MIT
+repository-code: "https://github.com/YourUsername/Autismus"
+keywords:
+  - autism
+  - autismus
+  - neurodiversity
+  - sensory processing
+  - emergent behavior
+  - reizverarbeitung
+  - systemisches modell
