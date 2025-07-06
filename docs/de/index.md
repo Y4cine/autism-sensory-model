@@ -154,10 +154,6 @@ Zugleich bricht dieses Modell mit der Illusion, dass Autismus ein **festes Wesen
 
 ---
 
-Perfekt. Hier ist das abschließende Kapitel:
-
----
-
 ## 7. **Schluss: Einladung zu einem neuen Blick**
 
 Dieses Papier ist kein Manifest, keine Theorie mit Absolutheitsanspruch – sondern ein Denkangebot. Es schlägt vor, Autismus nicht als starre Diagnose, sondern als **emergentes Phänomen** zu betrachten: als Muster, das aus der Wechselwirkung von sensorischer Wahrnehmung, neurochemischer Modulation, individueller Prägung und Umweltbedingungen entsteht.
