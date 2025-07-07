@@ -189,6 +189,6 @@ Perhaps this is the next step – out of the boxes, into the system analysis of 
 
 ## Supplementary Resources
 
-- [Biological Foundations of Autism](../../research/autism_biology_background.md)
+- [Biological Foundations of Autism](research/autism_biology_background.md)
 
 *This paper was created in dialogue between a systems-thinking engineer and an AI-based writing assistant. It is intended as a contribution to objectivity and reorientation in dealing with neurodivergent behavior – open to criticism, additions, and further development.*
