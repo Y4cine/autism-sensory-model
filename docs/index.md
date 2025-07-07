@@ -34,7 +34,7 @@ Sie können diesen Text auf verschiedene Weise lesen:
 - **[Vollständiges Dokument](de/)** - Das gesamte Paper auf einer Seite
 - **[Kapitelweise Navigation](de/chapters/01-einleitung.md)** - Für fokussiertes Lesen
 - **[Populärwissenschaftliche Version](de/popular-version.md)** - Leicht verständliche Kurzfassung
-- **PDF-Version** - Verwenden Sie die "Drucken"-Funktion Ihres Browsers
+- **PDF-Version** - Verwenden Sie die "Drucken"-Funktion Ihres Browsers  
 ---
 You can read this text in different ways:
 
@@ -45,7 +45,7 @@ You can read this text in different ways:
 
 ## Beitragen / Contribute
 
-Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/y4cine/autism-sensory-model) für weitere Informationen.
+Dieses Projekt ist offen für Beiträge, Übersetzungen und Erweiterungen. Besuchen Sie unser [GitHub Repository](https://github.com/y4cine/autism-sensory-model) für weitere Informationen.  
 
 ---
 This project is open for contributions, translations, and extensions. Visit our [GitHub Repository](https://github.com/y4cine/autism-sensory-model) for more information.
