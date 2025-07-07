@@ -12,8 +12,7 @@
 3. [Sensorik als zentraler Schlüssel: Die unterschätzte Primärdimension](chapters/03-sensorik.md)
 4. [Emergente Reaktionsmuster: Wenn gleiche Ursachen verschieden wirken](chapters/04-emergenz.md)
 5. [Konsequenzen für Forschung und Therapie: Vom Training zur Verständigung](chapters/05-forschung.md)
-6. [Skizze eines neuen Modells: Multidimensional statt monolithisch](chapters/06-modell.md)
-7. [Schluss: Einladung zu einem neuen Blick](chapters/07-schluss.md)
+6. [Schluss: Einladung zu einem neuen Blick](chapters/07-schluss.md)
 
 ---
 
@@ -202,6 +201,10 @@ Vielleicht ist das der nächste Schritt – raus aus den Schubladen, rein in die
 - [Systemtheorie & Verhalten – tbd]
 
 ---
+
+## Ergänzende Ressourcen
+
+- [Biologische Grundlagen von Autismus](research/autism_biology_background.md)
 
 *Dieses Papier entstand im Dialog zwischen einem systemisch denkenden Ingenieur und einem KI-basierten Schreibassistenten. Es versteht sich als Beitrag zur Versachlichung und Neuorientierung im Umgang mit neurodivergentem Verhalten – offen für Kritik, Ergänzung und Weiterentwicklung.*
 
