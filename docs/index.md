@@ -35,6 +35,7 @@ Sie können diesen Text auf verschiedene Weise lesen:
 - **[Kapitelweise Navigation](de/chapters/01-einleitung.md)** - Für fokussiertes Lesen
 - **[Populärwissenschaftliche Version](de/popular-version.md)** - Leicht verständliche Kurzfassung
 - **PDF-Version** - Verwenden Sie die "Drucken"-Funktion Ihres Browsers  
+
 ---
 You can read this text in different ways:
 
