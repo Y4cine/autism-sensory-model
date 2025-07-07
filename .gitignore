@@ -7,7 +7,6 @@ _site/
 # Dependency directories
 node_modules/
 jspm_packages/
-research/
 
 # Editor files
 .idea/
