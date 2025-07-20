@@ -1,3 +1,8 @@
+---
+layout: default
+title: Autismus-Sensorik-Modell
+---
+
 # Autism Sensory Model / Autismus-Sensorik-Modell
 
 ![Autismus verstehen](assets/header-image.png)  
